@@ -1,0 +1,124 @@
+# Loan Approval Prediction & Analytics Dashboard
+
+## Project Overview
+This project is a complete Loan Approval Prediction and Analytics Dashboard built using Power BI and Excel datasets. The dashboard helps analyze customer loan applications, approval trends, applicant profiles, credit history, income distribution, and risk patterns to support better business decisions.
+
+The project demonstrates data cleaning, data visualization, business intelligence reporting, KPI analysis, and interactive dashboard development.
+
+---
+
+# Objectives
+- Analyze loan applicant data
+- Understand loan approval and rejection patterns
+- Identify important factors affecting loan approval
+- Create interactive business dashboards
+- Generate insights for decision-making
+
+---
+
+# Tools & Technologies Used
+- Power BI
+- Microsoft Excel
+- Data Visualization
+- Data Cleaning
+- DAX (Data Analysis Expressions)
+- Business Intelligence Reporting
+
+---
+
+# Dataset Features
+The dataset includes:
+- Applicant Income
+- Co-applicant Income
+- Loan Amount
+- Loan Term
+- Credit History
+- Gender
+- Education
+- Marital Status
+- Property Area
+- Self Employment Status
+- Loan Status
+
+---
+
+# Dashboard Features
+
+## KPI Cards
+- Total Applications
+- Approved Loans
+- Rejected Loans
+- Approval Percentage
+- Average Loan Amount
+
+## Visualizations
+- Loan Approval by Gender
+- Loan Approval by Education
+- Property Area Analysis
+- Income vs Loan Amount
+- Credit History Analysis
+- Applicant Distribution Charts
+- Approval Trend Analysis
+
+## Interactive Filters
+- Gender Filter
+- Education Filter
+- Property Area Filter
+- Loan Status Filter
+
+---
+
+# Key Insights
+- Applicants with good credit history have higher approval rates.
+- Urban area applicants show higher loan approval percentages.
+- Applicant income directly impacts loan approval probability.
+- Educated applicants tend to receive more approvals.
+- Loan rejection is higher among applicants with poor credit history.
+
+---
+
+# Project Workflow
+1. Data Collection
+2. Data Cleaning & Transformation
+3. Data Modeling
+4. KPI Creation
+5. Dashboard Design
+6. Insight Generation
+7. Final Reporting
+
+---
+
+# Files Included
+- `Dashboard.pbix` → Power BI Dashboard File
+- `loan_bi_dataset.xlsx` → Dataset File
+- `README.md` → Project Documentation
+
+---
+
+# Learning Outcomes
+Through this project, I learned:
+- Power BI dashboard creation
+- Data visualization techniques
+- Business insight generation
+- Data analysis concepts
+- KPI tracking and reporting
+- Interactive dashboard development
+
+---
+
+# Future Improvements
+- Add Machine Learning prediction model
+- Connect real-time databases
+- Add advanced forecasting visuals
+- Deploy dashboard online
+
+---
+
+# Conclusion
+This project showcases practical knowledge of Power BI, data analytics, dashboard development, and business intelligence concepts. It helps understand how data-driven insights can improve loan approval decisions and business performance.
+
+---
+
+# Author
+Rahul Lali
+LinkedIn:www.linkedin.com/in/rahul-lali-da
